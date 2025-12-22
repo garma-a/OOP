@@ -1,4 +1,4 @@
-# OOP in C#
+# OOP in TS
 
 ## `public` keyword
 <p>
