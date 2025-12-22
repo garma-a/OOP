@@ -56,6 +56,7 @@ const sub1 = new Subscriper("Garma")
 const sub2 = new Subscriper("Patrick")
 const sub3 = new Subscriper("danial")
 
+
 const channel = new YoutubeChannel([sub1, sub2, sub3])
 
 
@@ -68,6 +69,5 @@ while (true) {
 		break
 	}
 }
-
 
 
