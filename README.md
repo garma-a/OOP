@@ -190,7 +190,6 @@ foreach (var obj in objects)
 //the Car class is driving 100 miles.
 //The Vehicle class is driving 200 miles.
 // if we swap the two if conditions , the output will be 
-
 foreach (var obj in objects)
 {
 
@@ -400,6 +399,7 @@ public class Dog : Animal {
 ### L
 <p>
     Liskov substitution principle (LSP): Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
+    in other words i can always send the subclass obj to method or function that should accept the parent obj
 </p>
 
 ### I
